@@ -98,3 +98,5 @@ Para migrar, exporta las tablas y el bucket `product-images`, cambia las variabl
 ## 7. Costos y límites
 
 El proyecto no activa cobros automáticos ni requiere tarjeta desde el código. Los límites concretos de cada plan pueden cambiar; verifica las páginas oficiales enlazadas en `docs/SERVICIOS_EXTERNOS.md` antes de configurar cuentas.
+
+Supabase conectado.
