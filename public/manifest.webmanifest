@@ -1,0 +1,9 @@
+{
+  "name": "COMERCIAL RIBERA",
+  "short_name": "RIBERA",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f6f3ec",
+  "theme_color": "#17382f",
+  "icons": []
+}
